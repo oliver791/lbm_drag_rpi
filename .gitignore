@@ -1,0 +1,20 @@
+# Build artifacts
+build_sx1276_drpi/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# Editor/IDE
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CSV logs generated at runtime
+*.csv
