@@ -1,0 +1,22 @@
+# Build artifacts
+build_sx1276_drpi/
+build_*/
+
+# Object files
+*.o
+*.d
+*.su
+*.lst
+*.bin
+*.hex
+*.elf
+*.map
+
+# Logs
+*.csv
+*.log
+mem_usage.log
+
+# OS files
+.DS_Store
+Thumbs.db
