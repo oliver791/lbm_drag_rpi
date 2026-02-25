@@ -183,3 +183,4 @@ Modifications (CSV logging, configurable uplink parameters, random payload gener
 
 - [Semtech SWL2001 - LoRa Basics Modem](https://github.com/Lora-net/SWL2001)
 - [Dragino LoRa/GPS HAT](https://www.dragino.com/)
+- https://github.com/non-det-alle/SWL2001/tree/master/lbm_drag_rpi
